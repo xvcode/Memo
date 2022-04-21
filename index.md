@@ -2,27 +2,17 @@
 
 ### 生物信息
 
-[密码子图书馆](http://lib.mimazi.net/)
+[密码子图书馆](http://lib.mimazi.net/)    [了解基因结构](https://zhuanlan.zhihu.com/p/49601643)     [一文读懂宏基因组binning](http://lib.mimazi.net/bioinf/806.html)
 
-[了解基因结构](https://zhuanlan.zhihu.com/p/49601643)
+[生物信息中的Python 01  从零开始处理基因序列](https://blog.csdn.net/u011262253/article/details/88542804)    [生物信息中的Python 02  用biopython解析序列](https://blog.csdn.net/u011262253/article/details/88542836)
 
-[一文读懂宏基因组binning](http://lib.mimazi.net/bioinf/806.html)
-
-[生物信息中的Python 01 | 从零开始处理基因序列](https://blog.csdn.net/u011262253/article/details/88542804)
-
-[生物信息中的Python 02 | 用biopython解析序列](https://blog.csdn.net/u011262253/article/details/88542836)
-
-[生物信息中的Python 03 | 自动化操作NCBI](https://blog.csdn.net/u011262253/article/details/88542879)
-
-[生物信息中的Python 04 | 批量下载基因与文献](https://blog.csdn.net/u011262253/article/details/88542910)
+[生物信息中的Python 03  自动化操作NCBI](https://blog.csdn.net/u011262253/article/details/88542879)   [生物信息中的Python 04  批量下载基因与文献](https://blog.csdn.net/u011262253/article/details/88542910)
 
 ### PYTHON
 
 #### Numpy
 
-[图解 | NumPy可视化指南](https://zhuanlan.zhihu.com/p/347666868)
-
-
+[图解  NumPy可视化指南](https://zhuanlan.zhihu.com/p/347666868)
 
 ### Study
 
@@ -36,6 +26,14 @@
 
 [Django3.1教程](https://www.liujiangblog.com/)    [20 Free Bootstrap UI Kits](https://speckyboy.com/free-bootstrap-ui-kits/) 
 
+#### CSCI3161
+
+[**OpenGL Programming Guide**](http://www.glprogramming.com/red/)  [OpenGL 1.1 Reference](http://www.talisman.org/opengl-1.1/Reference.html)  [欢迎来到OpenGL的世界](https://learnopengl-cn.github.io/)
+
+[CSCI 3161 Computer Animation](https://web.cs.dal.ca/~sbrooks/csci3161/index.html)  [glutKeyboardUpFunc](https://www.dei.isep.ipp.pt/~matos/cg/docs/manual/glutKeyboardUpFunc.3GLUT.html)
+
+
+
 #### Java
 
 [评估编程技能的 30 个 Java 编码问题](https://www.techbeamers.com/java-coding-questions-assess-programming-skills/)
@@ -44,7 +42,7 @@
 
 #### Net & Database (CSCI 3171 , 2141)
 
-[TCP——SYN、ACK、FIN、RST、PSH、URG](https://www.jianshu.com/p/a8a0abb77795)
+[TCP——SYN、ACK、FIN、RST、PSH、URG详解](https://www.jianshu.com/p/a8a0abb77795)
 
 [数据库三大范式详解（通俗易懂）](https://blog.csdn.net/qq_34531925/article/details/79529339)
 
