@@ -23,7 +23,7 @@
 
 - [Tensorflow版BERT中文模型踩坑总结](https://zhuanlan.zhihu.com/p/51762599)
 
-- [词干提取 – Stemming | 词形还原 – Lemmatisation](https://easyai.tech/ai-definition/stemming-lemmatisation/)
+- [词干提取 – Stemming , 词形还原 – Lemmatisation](https://easyai.tech/ai-definition/stemming-lemmatisation/)
 
 - [产品经理的人工智能学习库](https://easyai.tech/)
 
@@ -166,7 +166,7 @@
 
 [Scikit-learn笔记2](https://goldengrape.github.io/posts/python/scikit-learn-note-2/)
 
-[【小萌五分钟】机器学习 | 模型评估: ROC曲线与AUC值](https://space.bilibili.com/470913968/)
+[【小萌五分钟】机器学习 , 模型评估: ROC曲线与AUC值](https://space.bilibili.com/470913968/)
 
 [Keras深度学习快速简明教程](https://www.bilibili.com/video/BV1gE411R7jd?from=search&seid=3727697060335916689)
 
@@ -242,7 +242,7 @@
 
 [图的最短路径算法 Dijkstra, Bellman-Ford, Floyd-Warshall](https://www.cnblogs.com/godfray/p/4077146.html)
 
-[Analysis of Algorithms | Set 3 (Asymptotic Notations)](https://www.geeksforgeeks.org/analysis-of-algorithms-set-3asymptotic-notations/?tdsourcetag=s_pctim_aiomsg)
+[Analysis of Algorithms , Set 3 (Asymptotic Notations)](https://www.geeksforgeeks.org/analysis-of-algorithms-set-3asymptotic-notations/?tdsourcetag=s_pctim_aiomsg)
 
 [图论 graph theory](https://www.wikiwand.com/zh-cn/%E5%9B%BE%E8%AE%BA#)
 
