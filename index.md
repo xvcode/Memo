@@ -38,6 +38,13 @@
 [卡方检验](https://www.tongli.ink/%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0%E5%88%9D%E6%AD%A5%E4%BA%86%E8%A7%A3%E5%8D%A1%E6%96%B9%E6%A3%80%E9%AA%8C)
 
 [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
+
+#### 查找论文
+
+[IEEE Xplore](https://dal.ca.libguides.com/c.php?g=257110&p=5194119)
+
+[ACM Digital Library](https://dal.ca.libguides.com/c.php?g=257110&p=1716818)
+
 #### MarkDown
 
 [Markdown数学公式语法](https://www.jianshu.com/p/e74eb43960a1)
@@ -53,6 +60,8 @@
 [Datasets for  Data Science, and Machine Learning](https://www.kdnuggets.com/datasets/index.html)
 
 ### 生物信息
+
+[Nextclade 下个进化枝](https://clades.nextstrain.org/)
 
 [密码子图书馆](http://lib.mimazi.net/) 
 
