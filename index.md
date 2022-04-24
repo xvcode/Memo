@@ -13,7 +13,7 @@
 
 [PyTorch 的 BERT 微调教程](https://xungejiang.com/2020/06/06/BERT/)
 
-- NLP
+**NLP**
 
 - [NLP 中的Attention原理和源码解析](https://zhuanlan.zhihu.com/p/43493999)
 
