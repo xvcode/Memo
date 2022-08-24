@@ -77,7 +77,7 @@
 
 [生物信息中的Python 04  批量下载基因与文献](https://blog.csdn.net/u011262253/article/details/88542910)
 
-[TaJoCGI](https://githubhot.com/repo/lucasnell/TaJoCGI)
+[TaJoCGI](https://github.com/lucasnell/TaJoCGI)
 
 #### SKLearn
 
