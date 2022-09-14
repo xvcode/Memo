@@ -125,17 +125,17 @@
 
 [CSS Grid 布局完全指南(图解 Grid 详细教程)](https://www.html.cn/archives/8510)
 
-[写给自己看的display: flex布局教程](https://www.zhangxinxu.com/wordpress/2018/10/display-flex-css3-css/#flex-grow)   
+[写给自己看的display: flex布局教程](https://www.zhangxinxu.com/wordpress/2018/10/display-flex-css3-css/#flex-grow)
 
 [写给自己看的display: grid布局教程](https://www.zhangxinxu.com/wordpress/2018/11/display-grid-css-css3/#grid-template-columns-rows)
 
-[理解Flexbox：你需要知道的一切](https://www.w3cplus.com/css3/understanding-flexbox-everything-you-need-to-know.html)   
+[理解Flexbox：你需要知道的一切](https://www.w3cplus.com/css3/understanding-flexbox-everything-you-need-to-know.html)
 
 [响应式 Web 设计 - 网格视图](https://miaoxingyun.com/css/css-rwd-grid.html)
 
-[Django3.1教程](https://www.liujiangblog.com/)    
+[Django3.1教程](https://www.liujiangblog.com/)
 
-[20 Free Bootstrap UI Kits](https://speckyboy.com/free-bootstrap-ui-kits/) 
+[20 Free Bootstrap UI Kits](https://speckyboy.com/free-bootstrap-ui-kits/)
 
 [CSCI 2170 课本，需要账号密码](https://learn.zybooks.com/signin)
 
@@ -163,7 +163,7 @@
 
 [perlrequick-Perl正则表达式快速入门](https://runebook.dev/zh-CN/docs/perl/perlrequick)
 
-#### CSCI 3151 
+#### CSCI 3151
 
 [cs229 Syllabus stanford](http://cs229.stanford.edu/syllabus-fall2020.html)
 
