@@ -283,7 +283,7 @@
 
 #### Math
 
-[矩阵计算器](https://matrix.reshish.com/zh/)    
+[矩阵计算器](https://matrix.reshish.com/zh/)
 
 [导数法则](https://www.shuxuele.com/calculus/derivatives-rules.html)  
 
