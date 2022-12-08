@@ -14,6 +14,18 @@
 
 [PyTorch 的 BERT 微调教程](https://xungejiang.com/2020/06/06/BERT/)
 
+[Tensorflow2.0常用函数](https://blog.csdn.net/weixin_44127327/article/details/121788486)
+
+[tensorflow2.0中损失函数的选择及使用](https://blog.csdn.net/qq_36758914/article/details/104455898)
+
+[How to build CNN in TensorFlow: examples, code and notebooks](https://cnvrg.io/cnn-tensorflow/)
+
+[Keras/TensorFlow loss函数中的from_logits=True是什么?](https://news.sangniao.com/p/1657299162)
+
+[Batch Normalization Tensorflow Keras Example](https://towardsdatascience.com/backpropagation-and-batch-normalization-in-feedforward-neural-networks-explained-901fd6e5393e)
+
+#### Image
+
 [如何解析深度学习 Inception 从 v1 到 v4 的演化？](https://www.zhihu.com/question/66396783/answer/516892197)
 
 [A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
@@ -24,7 +36,27 @@
 
 [令人拍案叫绝的EfficientNet和EfficientDet](https://zhuanlan.zhihu.com/p/96773680)
 
-**NLP**
+[A Comprehensive Guide to Convolutional Neural Networks — the ELI5 way](https://towardsdatascience.com/a-comprehensive-guide-to-convolutional-neural-networks-the-eli5-way-3bd2b1164a53)
+
+[ImageNet: VGGNet, ResNet, Inception, and Xception with Keras](https://pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/)
+
+[Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
+
+[EfficientNet: Improving Accuracy and Efficiency through AutoML and Model Scalingl](https://ai.googleblog.com/2019/05/efficientnet-improving-accuracy-and.html)
+
+[EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks (Image Classification)](https://sh-tsang.medium.com/efficientnet-rethinking-model-scaling-for-convolutional-neural-networks-image-classification-ef67b0f14a4d)
+
+[从VGG到NASNet，一文概览图像分类网络](https://zhuanlan.zhihu.com/p/35221368)
+
+[【完结】16篇图像分类干货文章总结，从理论到实践全流程大盘点！](https://zhuanlan.zhihu.com/p/86090591)
+
+[GitHub：图像分类最全资料集锦](https://zhuanlan.zhihu.com/p/57006140)
+
+[收藏！深度学习必读10篇经典算法论文总结！](https://zhuanlan.zhihu.com/p/173776547)
+
+[有没有机器学习入门的论文推荐？](https://www.zhihu.com/question/51925125/answer/1345597371)
+
+#### **NLP**
 
 - [NLP 中的Attention原理和源码解析](https://zhuanlan.zhihu.com/p/43493999)
 
@@ -128,6 +160,14 @@
 
 [Python统计分析可视化库seaborn(相关性图，变量分布图，箱线图等等)](https://www.cnblogs.com/caiyishuai/p/11184166.html)
 
+[【python】详解pandas.DataFrame.plot( )画图函数](https://blog.csdn.net/brucewong0516/article/details/80524442)
+
+[将python程序注册为Ubuntu系统服务，并开机启动的方法。](https://www.jianshu.com/p/b75d88e5aa61)
+
+[[python]读取XML文件](https://zj-image-processing.readthedocs.io/zh_CN/stable/python/[python]%E8%AF%BB%E5%8F%96XML%E6%96%87%E4%BB%B6.html)
+
+[Flask 文件上传](https://www.w3cschool.cn/flask/flask_file_uploading.html)
+
 ### Study
 
 #### Web 前端 (CSCI 1170 ,2170)
@@ -159,6 +199,10 @@
 [Bootstrap 快速入门 英文版](https://getbootstrap.com/docs/4.6/getting-started/introduction/)
 
 [Adminer better than phpMyAdmin](https://www.adminer.org/en/)
+
+[bootstrap 输入框只能数字和字母等其他限制](https://blog.csdn.net/m0_37574389/article/details/88763694)
+
+[原生JS实现ajax上传文件并显示进度条](https://www.qiufeng.blue/frontend/js-upload.html)
 
 #### CSCI 4152
 
@@ -307,3 +351,5 @@
 #### 其它
 
 [Chocolatey常用命令](https://www.cnblogs.com/seeyoumiter/p/13396861.html)
+
+[List of Free Learning Resources In Many Languages](https://github.com/EbookFoundation/free-programming-books)
