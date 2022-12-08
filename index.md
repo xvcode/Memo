@@ -1,4 +1,5 @@
 ### 学习编程资料链接整理
+
 ---
 
 #### Machine learning
@@ -12,6 +13,16 @@
 [地理控件信息科学](https://www.osgeo.cn/)
 
 [PyTorch 的 BERT 微调教程](https://xungejiang.com/2020/06/06/BERT/)
+
+[如何解析深度学习 Inception 从 v1 到 v4 的演化？](https://www.zhihu.com/question/66396783/answer/516892197)
+
+[A Simple Guide to the Versions of the Inception Network](https://towardsdatascience.com/a-simple-guide-to-the-versions-of-the-inception-network-7fc52b863202)
+
+[EfficientNet网络解读](https://zhuanlan.zhihu.com/p/273234587)
+
+[细品EfficientNet](https://zhuanlan.zhihu.com/p/137089135)
+
+[令人拍案叫绝的EfficientNet和EfficientDet](https://zhuanlan.zhihu.com/p/96773680)
 
 **NLP**
 
@@ -63,17 +74,17 @@
 
 [Nextclade 下个进化枝](https://clades.nextstrain.org/)
 
-[密码子图书馆](http://lib.mimazi.net/) 
+[密码子图书馆](http://lib.mimazi.net/)
 
-[了解基因结构](https://zhuanlan.zhihu.com/p/49601643)     
+[了解基因结构](https://zhuanlan.zhihu.com/p/49601643)
 
 [一文读懂宏基因组binning](http://lib.mimazi.net/bioinf/806.html)
 
-[生物信息中的Python 01  从零开始处理基因序列](https://blog.csdn.net/u011262253/article/details/88542804)    
+[生物信息中的Python 01  从零开始处理基因序列](https://blog.csdn.net/u011262253/article/details/88542804)
 
 [生物信息中的Python 02  用biopython解析序列](https://blog.csdn.net/u011262253/article/details/88542836)
 
-[生物信息中的Python 03  自动化操作NCBI](https://blog.csdn.net/u011262253/article/details/88542879)   
+[生物信息中的Python 03  自动化操作NCBI](https://blog.csdn.net/u011262253/article/details/88542879)
 
 [生物信息中的Python 04  批量下载基因与文献](https://blog.csdn.net/u011262253/article/details/88542910)
 
@@ -95,7 +106,7 @@
 
 [OPENCV之特征匹配](https://freesion.com/article/7309269209/)
 
-[OpenCV Tutorials ](https://docs.opencv.org/4.5.5/)
+[OpenCV Tutorials](https://docs.opencv.org/4.5.5/)
 
 [OpenCV中文官方文档](http://woshicver.com/)
 
@@ -289,7 +300,7 @@
 
 [数学求解器](https://zs.symbolab.com/)
 
-[什么是微积分](https://www.youtube.com/watch?v=XCSfvBm3J8Y&list=PL09B4C92AD57E0090) 
+[什么是微积分](https://www.youtube.com/watch?v=XCSfvBm3J8Y&list=PL09B4C92AD57E0090)
 
 [Dal 在线数学学习平台，需要账号密码](https://capa.mathstat.dal.ca/adm/roles)
 
