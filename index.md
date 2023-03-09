@@ -1,6 +1,104 @@
 ### 学习编程资料链接整理
 
 ---
+[深度学习百科及面试资源 — PaddleEdu documentation](https://paddlepedia.readthedocs.io/en/latest/index.html#)
+
+#### 6908 Natural Language Processing with Deep Learning
+
+[PyTorch简明教程 - 李理的博客](http://fancyerii.github.io/books/pytorch/#60%E5%88%86%E9%92%9Fpytorch%E6%95%99%E7%A8%8B)
+
+[PyTorch官方教程中文版 - PyTorch官方教程中文版](https://pytorch.panchuang.net/)
+
+[Welcome to PyTorch Tutorials — PyTorch Tutorials 1.13.1+cu117 documentation](https://pytorch.org/tutorials/)
+
+[PyTorch教程-6：详解PyTorch中的transforms_超级超级小天才的博客-CSDN博客_pytorch transform](https://blog.csdn.net/qq_38962621/article/details/111146462)
+
+[Python：next()和iter()的使用说明 - 简书](https://www.jianshu.com/p/aa6b17d303e9)
+
+[Transformers — transformers 3.3.0 documentation](https://huggingface.co/transformers/v3.3.1/index.html)
+
+[【NLP预训练】深入理解“预训练”语言模型 - 知乎](https://zhuanlan.zhihu.com/p/159620066)
+
+[ 请问深度学习中预训练模型是指什么？如何得到？ - 知乎](https://www.zhihu.com/question/327642286)
+
+[transformers/README_zh-hans.md at main · huggingface/transformers](https://github.com/huggingface/transformers/blob/main/README_zh-hans.md)
+
+##### SQuAD
+
+[AllenNLP——艾伦人工智能研究所](https://allenai.org/allennlp)
+
+[推出一个半月，斯坦福SQuAD问答榜单前六名都在使用BERT-阿里云开发者社区](https://developer.aliyun.com/article/816012)
+
+[Oceanland-428/Improved-BiDAF-with-Self-Attention](https://github.com/Oceanland-428/Improved-BiDAF-with-Self-Attention)
+
+[umhan35/nlp-squad](https://github.com/umhan35/nlp-squad)
+
+[Comprehension-Question-Answering-Papers: Survey on Machine Reading Comprehension](https://github.com/xanhho/Reading-Comprehension-Question-Answering-Papers)
+
+[jerrylzy/SQuAD-QANet: We implemented QANet from scratch and improved baseline BiDAF.](https://github.com/jerrylzy/SQuAD-QANet)
+
+[andy840314/QANet-pytorch-: A Pytorch implementation of QANet](https://github.com/andy840314/QANet-pytorch-)
+
+[anson-lee6444/Finetuning-BiDAF-and-QANet-for-SQuAD](https://github.com/anson-lee6444/Finetuning-BiDAF-and-QANet-for-SQuAD)
+
+[inSam/QA-XL: QANet with Transformer-XL: Squad 2.0 Question and Answer Natural Language Model](https://github.com/inSam/QA-XL)
+
+[datpnguyen/QANet-CS224N: A PyTorch implementation of QANet for SQuAD 2.0. CS224N Default Project, Stanford University, Winter 2019-2020.](https://github.com/datpnguyen/QANet-CS224N)
+
+
+#### 6709.Software Defined Networking
+
+[RYU SDN Framework — Ryubook 1.0 documentation](http://osrg.github.io/ryu-book/en/html/)
+
+[Welcome to RYU the Network Operating System(NOS) — Ryu 4.34 documentation](https://ryu.readthedocs.io/en/latest/)
+
+[SDN实验（二）：动态变更转发路径 - greyishsong](https://greyishsong.ink/SDN%E5%AE%9E%E9%AA%8C%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E5%8A%A8%E6%80%81%E5%8F%98%E6%9B%B4%E8%BD%AC%E5%8F%91%E8%B7%AF%E5%BE%84/)
+
+[SDN - 随笔分类 - 山上有风景 - 博客园](https://www.cnblogs.com/ssyfj/category/1558938.html?page=1)
+
+[SDN实验（七）——Ryu基于跳数的最短路径转发算法实现_程序员小菜鸡_的博客-CSDN博客_ryu实现路径](https://blog.csdn.net/qq_41422448/article/details/127060330)
+
+[OpenFlow是什么？OpenFlow和SDN之间是什么关系？ - 华为](https://info.support.huawei.com/info-finder/encyclopedia/zh/OpenFlow.html)
+
+
+
+#### CSCI 6165  Machine learning for Big Data
+
+[一文看懂常用的梯度下降算法 - 知乎](https://zhuanlan.zhihu.com/p/31630368)
+
+[一文看懂随机森林 - Random Forest（4个实现步骤+10个优缺点）](https://easyai.tech/ai-definition/random-forest/)
+
+[一文了解机器学习中的F1分数（F1 Score） - Data Application Lab](https://www.dataapplab.com/the-f1-score/)
+
+[迁移学习（Transfer Learning）：如何使用预训练模型高效创建新的机器学习模型](https://www.appen.com.cn/blog/transfer-learning/)
+
+数据增强(Data Augmentation) - 知乎
+
+[DBSCAN聚类算法原理总结-天池技术圈-天池技术讨论区](https://tianchi.aliyun.com/forum/postDetail?postId=79392)
+
+[DBSCAN 算法 - 简书](https://www.jianshu.com/p/e594c2ce0ac0)
+
+[（3）聚类算法之DBSCAN算法 - 知乎](https://zhuanlan.zhihu.com/p/77043965)
+
+[DBSCAN聚类算法——机器学习（理论+图解+python代码）_风弦鹤的博客-CSDN博客_dbscan算法](https://blog.csdn.net/huacha__/article/details/81094891)
+
+[[机器学习与scikit-learn-26]：算法-聚类-KMeans寻找最佳轮廓系数_51CTO博客_scikit-learn kmeans](https://blog.51cto.com/u_11299290/5144133)
+
+[(14条消息) 聚类评估算法-轮廓系数（Silhouette Coefficient ）_山坡坡上的蜗牛的博客-CSDN博客_silhouette coefficient](https://blog.csdn.net/wangxiaopeng0329/article/details/53542606)
+
+[聚类 - 3 - 轮廓系数_血影雪梦的博客-CSDN博客_轮廓系数](https://kunpeng.blog.csdn.net/article/details/51966932?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-51966932-blog-53542606.pc_relevant_3mothn_strategy_and_data_recovery&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-1-51966932-blog-53542606.pc_relevant_3mothn_strategy_and_data_recovery&utm_relevant_index=1)
+
+[聚类算法模型评价指标_荼靡，的博客-CSDN博客](https://blog.csdn.net/m0_46926492/article/details/127769856?spm=1001.2101.3001.6650.1&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EAD_ESQUERY%7Eyljh-1-127769856-blog-51966932.pc_relevant_aa&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EAD_ESQUERY%7Eyljh-1-127769856-blog-51966932.pc_relevant_aa&utm_relevant_index=2)
+
+[聚类学习-轮廓系数_远去的栀子花的博客-CSDN博客_轮廓系数](https://blog.csdn.net/u012967763/article/details/79149703?spm=1001.2101.3001.6650.4&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-4-79149703-blog-53542606.pc_relevant_3mothn_strategy_and_data_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-4-79149703-blog-53542606.pc_relevant_3mothn_strategy_and_data_recovery&utm_relevant_index=6)
+
+[Mutual information and Normalized Mutual information 互信息和标准化互信息-阿里云开发者社区](https://developer.aliyun.com/article/579326)
+
+[机器学习中的Bias和Variance - 知乎](https://zhuanlan.zhihu.com/p/45213397)
+
+[偏差（Bias）与方差（Variance） - 知乎](https://zhuanlan.zhihu.com/p/38853908)
+
+[平滑处理--拉普拉斯（Laplace Smoothing） | 叮当了个和谐](https://dcpnonstop.github.io/2017/11/24/%E5%B9%B3%E6%BB%91%E5%A4%84%E7%90%86-%E6%8B%89%E6%99%AE%E6%8B%89%E6%96%AF%EF%BC%88laplace%EF%BC%89/)
 
 #### Machine learning
 
